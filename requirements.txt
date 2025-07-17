@@ -9,4 +9,5 @@ catboost
 xgboost
 mlflow==2.0.0
 pyarrow==9.0.0
+flask
 #-e .
